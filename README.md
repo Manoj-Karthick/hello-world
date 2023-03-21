@@ -5,7 +5,7 @@ I'm in the process of learning GitHub. I'm using this repository for learning pr
 I have created new branch called readme-edit
 
 - In this branch I'm going to make changes to readme file and commit the changes
-- After commiting changes, I'm going to create pull request and merge these changes into min branch.
+- After commiting changes, I'm going to create pull request and merge these changes into main branch.
 
 So for undertstood 
 1. Creation of repository
